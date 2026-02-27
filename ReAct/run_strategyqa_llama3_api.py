@@ -14,7 +14,7 @@ import replicate
 import time
 import requests
 
-REPLICATE_API_TOKEN="xxx"
+REPLICATE_API_TOKEN="your_replicate_token_here"
 
 parser = argparse.ArgumentParser()
 
